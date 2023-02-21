@@ -1,3 +1,3 @@
-# basic-template
+# compan-css
 
-This is the basic files to start coding a simple HTML/CSS/JS static web site. 
+This is the basic files to start appliying a CSS to the index.html page. 
